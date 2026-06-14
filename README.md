@@ -3,7 +3,7 @@ AI Content Brief Generator
 A web app that generates SEO-optimized content briefs for any topic using **Groq's Llama 3** and **Streamlit**.
 
  Live Demo
-"https://proximity-armhole-decimal.ngrok-free.dev"
+https://proximity-armhole-decimal.ngrok-free.dev/
 
  Features
 
