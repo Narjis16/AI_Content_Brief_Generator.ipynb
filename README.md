@@ -3,8 +3,7 @@ AI Content Brief Generator
 A web app that generates SEO-optimized content briefs for any topic using **Groq's Llama 3** and **Streamlit**.
 
  Live Demo
-https://proximity-armhole-decimal.ngrok-free.dev/
-
+https://jubilant-disco-x5gvv746qw4f44r-8503.app.github.dev/
  Features
 
 Enter any topic (e.g., "sustainable gardening", "AI in healthcare") and get:
